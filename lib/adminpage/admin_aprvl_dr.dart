@@ -41,31 +41,12 @@ class _Admin_aprllState extends State<Admin_aprll> {
             SizedBox(
               height: 340 ,
             ),
-            // Container(
-            //   height: 130,
-            //   color: Color.fromRGBO(100,90,71,0.1),
-            //   child: ,
-            // )
+
         Container(
           height: 130,
           color: Color.fromRGBO(100,90,71,0.1),
           child: Row(
             children: [
-              // Padding(
-              //   padding: const EdgeInsets.symmetric(vertical: 90,horizontal: 13),
-              //   child: Container(
-              //       height: 55,
-              //       width: 150,
-              //
-              //       child: ElevatedButton(onPressed: () {},
-              //           style: ElevatedButton.styleFrom(
-              //               primary: Color.fromRGBO(199, 31, 30, 1),
-              //               shape: RoundedRectangleBorder(
-              //                   borderRadius: BorderRadius.circular(10)
-              //               )
-              //           ),
-              //           child: Text("Reject",style: TextStyle(fontSize: 18,fontWeight: FontWeight.w600,color: Colors.white),))),
-              // ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 15),
                 child: Container(
